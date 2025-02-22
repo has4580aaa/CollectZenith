@@ -1,6 +1,6 @@
 ## 切换语言
 - [中文](README_zh.md)
-- 
+  
 # CollectZenith
 
 **CollectZenith** is a cutting-edge AI designed to provide advanced conversational capabilities, data analysis, and personalized assistance. This document provides an overview of CollectZenith's features, a comparison with other popular AI models (ChatGPT-4, ChatGPT-3, and ChatGPT-4o), and instructions for downloading and using the software.
