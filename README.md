@@ -23,7 +23,7 @@ Here’s how **CollectZenith** compares to other popular AI models:
 
 | Feature                | CollectZenith           | ChatGPT-4               | ChatGPT-3               | ChatGPT-4o              |
 |------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
-| **Release Date**       | 2023                    | 2023                    | 2020                    | 2023                    |
+| **Release Date**       | 2024                    | 2023                    | 2020                    | 2025                    |
 | **Model Size**         | Custom Optimized        | 175B+                  | 175B                    | 175B+                  |
 | **Context Window**     | 64k tokens             | 32k tokens             | 4k tokens               | 32k tokens             |
 | **Multimodal Support** | Yes                    | Yes                    | No                      | Yes                    |
