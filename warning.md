@@ -25,12 +25,12 @@ This repository is currently in early development stage and incomplete! Core fea
 
 ### 📅 开发计划 | Roadmap
 **中文**
-- 预计首个可用版本：`202X年QX`
-- 主要里程碑：`(在此描述关键节点)`
+- 预计首个可用版本：`2028年1月`
+- 主要里程碑：`(未知)`
 
 **English**
-- Estimated first usable version: `202X QX`
-- Key milestones: `(Describe major milestones here)`
+- Estimated first usable version: `june 2028`
+- Key milestones: `(unknown)`
 
 ---
 
