@@ -1,3 +1,6 @@
+⚠️This repository is currently in early development stage and incomplete! Core features are still under construction, please do not use in production.
+
+
 ## Language Switch
 - [中文](README_CN.md)
 # CollectZenith
