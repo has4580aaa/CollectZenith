@@ -1,4 +1,5 @@
 ⚠️本仓库当前处于开发初期阶段，尚未完成！主要功能正在开发中，请勿用于生产环境。
+- [查看详情](WARNING.md)
 
 ## Language Switch
 - [English](README.md)
