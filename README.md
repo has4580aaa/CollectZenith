@@ -24,14 +24,14 @@ Here’s how **CollectZenith** compares to other popular AI models:
 | Feature                | CollectZenith           | ChatGPT-4               | ChatGPT-3               | ChatGPT-4o              |
 |------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
 | **Release Date**       | 2024                    | 2023                    | 2020                    | 2025                    |
-| **Model Size**         | Custom Optimized        | 175B+                  | 175B                    | 175B+                  |
-| **Context Window**     | 64k tokens             | 32k tokens             | 4k tokens               | 32k tokens             |
-| **Multimodal Support** | Yes                    | Yes                    | No                      | Yes                    |
-| **Fine-Tuning**        | Fully Customizable     | Yes                    | Limited                 | Yes                    |
+| **Model Size**         | Custom Optimized        | Unknown                  | 175B                    | 175B+                  |
+| **Context Window**     | Unknown             | 32k tokens             | 4k tokens               | 32k tokens             |
+| **Multimodal Support** | Unknown                    | Yes                    | No                      | Yes                    |
+| **Fine-Tuning**        | Fully Customizable     | Unknown                   | Limited                 | Unknown                    |
 | **API Cost**           | Competitive            | Higher                 | Lower                   | Moderate               |
-| **Accuracy**           | State-of-the-Art       | Improved               | Good                    | Improved               |
-| **Use Cases**          | All-purpose + Specialized | Advanced applications  | General-purpose         | Specialized tasks      |
-| **Game Comprehension** | Fine                   | Low Fine               | Low Fine                | Bit Fine               |
+| **Accuracy**           | State-of-the-Art       | Unknown               | Good                    | Improved               |
+| **Use Cases**          | Unknown | Advanced applications  | General-purpose         | Specialized tasks      |
+| **Game Comprehension** | Unknown                   | Low Fine               | Low Fine                | Bit Fine               |
 ---
 
 ## CollectZenith Features
